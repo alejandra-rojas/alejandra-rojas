@@ -1,4 +1,4 @@
-##Hi, I’m Alejandra!
+## Hi, I’m Alejandra!
 * I have been working with Next.js/React for the last couple of years.
 * At the moment, I'm getting comfortable with TypeScript.
 * I enjoy building or customizing Shopify e-commerce websites, whether it's with Liquid or Hydrogen.
