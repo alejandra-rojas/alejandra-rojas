@@ -1,7 +1,7 @@
 ## Hi, I’m Alejandra!
 * I have been working with Next.js/React for the last couple of years.
 * At the moment, I'm getting comfortable with TypeScript.
-* I enjoy building or customizing Shopify e-commerce websites, whether it's with Liquid or Hydrogen.
+* I enjoy building/customizing Shopify e-commerce websites, whether it's with Liquid or Hydrogen.
 * My favorite part of the frontend is enhancing the user experience with the power of CSS and crafting animations with Framer Motion or GSAP.
 * Exploring current web trends and staying up to date with the latest developments is something I enjoy.
 
