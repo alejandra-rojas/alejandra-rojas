@@ -5,7 +5,7 @@
 * My favorite part of the frontend is enhancing the user experience with the power of CSS, Framer Motion and GSAP.
 * Exploring current web trends and staying up to date with the latest developments is something I enjoy.
 
-I'm finishing my internship at Strandqvist Studio and I am on the lookout for a frontend role. I'd especially love to work at a creative company with a tight-knit team where I can expand and solidify my skills through a variety of projects. If you're hiring, let's chat! 👋
+I'm finishing my internship at Strandqvist Studio and I am on the lookout for a frontend role. I'd especially love to work at a creative company with a tight-knit team where I can expand my skills through a variety of projects. If you're hiring, let's chat! 👋
 
 
 <!--
