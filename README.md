@@ -1,12 +1,7 @@
-## Hi, I’m Alejandra!
+## Hi, I’m Alejandra! 👋
 * I have been working with Next.js/React for the last couple of years.
-* At the moment, I'm getting comfortable with TypeScript.
-* I enjoy building/customizing Shopify e-commerce websites, whether it's with Liquid or Hydrogen.
-* My favorite part of the frontend is enhancing the user experience with the power of CSS, Framer Motion and GSAP.
-* Exploring current web trends and staying up to date with the latest developments is something I enjoy.
-
-I'm finishing my internship at Strandqvist Studio and I am on the lookout for a frontend role. I'd especially love to work at a creative company with a tight-knit team where I can expand my skills through a variety of projects. If you're hiring, let's chat! 👋
-
+* At the moment, I'm on the <salt/> C# fullstack developer bootcamp. 
+* I love having the tools to work both in the frontend and the backend. Particularly enjoying the visual aspects of frontend work, taking pride in crafting pixel-perfect designs and staying current with the latest trends.
 
 <!--
 **alejandra-rojas/alejandra-rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
