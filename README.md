@@ -1,6 +1,6 @@
 ## Hi, I’m Alejandra! 👋
-* I have been working with Next.js/React for the last couple of years.
-* At the moment, I'm on the <salt/> C# fullstack developer bootcamp. 
+* I have been working with Next.js/React in the frontend for the last couple of years.
+* At the moment, I'm completing Salt C# fullstack bootcamp. 
 * I love having the tools to work both in the frontend and the backend. Particularly enjoying the visual aspects of frontend work, taking pride in crafting pixel-perfect designs and staying current with the latest trends.
 
 <!--
