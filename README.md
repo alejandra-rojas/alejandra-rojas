@@ -1,7 +1,4 @@
 ## 👋 Hi, I’m Alejandra! 
-* I have been working with Next.js/React in the frontend for the last couple of years.
-* At the moment, I'm completing Salt C# fullstack bootcamp. 
-* I love having the tools to work both in the frontend and the backend. Particularly enjoying the visual aspects of the frontend, taking pride in coding pixel-perfect designs and staying current with the latest trends.
 
 <!--
 **alejandra-rojas/alejandra-rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
